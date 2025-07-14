@@ -55,3 +55,5 @@ if result:
     print("Unique Experiences:", ", ".join(result['unique_experiences']))
 else:
     print("No good route found within the time limit")
+
+print( )
